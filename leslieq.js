@@ -12,7 +12,7 @@ class LeslieQ {
 		this.SLOW_FREQ = 5;
 		this.FAST_FREQ = 9;
 		this.FAST_GAIN = 0.019;
-		this.SLOW_GAIN = 0.018;
+		this.SLOW_GAIN = 0.017;
 		this.setMode(mode);
 	};
 
